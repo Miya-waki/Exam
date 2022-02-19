@@ -1,0 +1,7 @@
+F:\DAC\.Net\BasicConcepts\Employee\bin\Debug\Employee.exe.config
+F:\DAC\.Net\BasicConcepts\Employee\bin\Debug\Employee.exe
+F:\DAC\.Net\BasicConcepts\Employee\bin\Debug\Employee.pdb
+F:\DAC\.Net\BasicConcepts\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+F:\DAC\.Net\BasicConcepts\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+F:\DAC\.Net\BasicConcepts\Employee\obj\Debug\Employee.exe
+F:\DAC\.Net\BasicConcepts\Employee\obj\Debug\Employee.pdb
